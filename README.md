@@ -32,7 +32,7 @@ P2 - Resposta
 
     ...
 
-### P3. Escreve um programa que solicite ao utilizador dois números reais e apresente o resultado do segundo (base) elevado ao primeiro (expoente). Podes usar um método da classe Math para obter o resultado
+### P3. Escreve um programa que solicite ao utilizador dois números reais e apresente o resultado do segundo (base) elevado ao primeiro (expoente). Não podes usar um método da classe Math para obter o resultado
 
 P3 - Resposta
 
