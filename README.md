@@ -46,7 +46,7 @@ P2 - Resposta
     Visto que 'float' tem um alcançe inferior a 'double', é impossível a variável 'f' guardar o valor pedido.
     Assim sendo, podemos alterar o tipo a que a propriedade 'MaxValue' acede para 'float'.
 
-### P3. Escreve um programa que solicite ao utilizador dois números reais e apresente o resultado do segundo (base) elevado ao primeiro (expoente). Podes usar um método da classe Math para obter o resultado
+### P3. Escreve um programa que solicite ao utilizador dois números reais e apresente o resultado do segundo (base) elevado ao primeiro (expoente). Não podes usar um método da classe Math para obter o resultado
 
 P3 - Resposta
 
